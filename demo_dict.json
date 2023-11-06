@@ -1,0 +1,69 @@
+{
+    "subjects": [
+        {
+            "math": [
+                {
+                    "ram": 85
+                },
+                {
+                    "krishna": 90
+                },
+                {
+                    "bhanu": 95
+                }
+            ]
+        },
+        {
+            "physics": [
+                {
+                    "ram": 75
+                },
+                {
+                    "krishna": 77
+                },
+                {
+                    "bhanu": 79
+                }
+            ]
+        },
+        {
+            "chemistry": [
+                {
+                    "ram": 61
+                },
+                {
+                    "krishna": 65
+                },
+                {
+                    "bhanu": 69
+                }
+            ]
+        },
+        {
+            "computer_science": [
+                {
+                    "ram": 57
+                },
+                {
+                    "krishna": 71
+                },
+                {
+                    "bhanu": 42
+                }
+            ]
+        },
+        {
+            "logical_reasoning": [
+                {
+                    "ram": 42
+                },
+                {
+                    "krishna": 88
+                },
+                {
+                    "bhanu": 68
+                }
+            ]
+        }
+    ]
+}
