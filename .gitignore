@@ -1,1 +1,10 @@
-\.venv
+/.venv
+
+# ignore dictionary
+3.dictionary/__pycache__
+
+
+
+
+
+
